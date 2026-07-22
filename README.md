@@ -4,7 +4,7 @@ Desenvolvedor Full Stack com foco em back-end, cursando Análise e Desenvolvimen
 Atuo como Assistente de TI na Venttos Electronics (Manaus), onde sou responsável individual
 pelo desenvolvimento de um sistema industrial em produção real.
 
-**O que mais me interessa:** modelagem de banco de dados, arquitetura de API e lógica de negócio.
+**O que mais me interessa:** banco de dados e engenharia, arquitetura de software.
 
 ---
 
@@ -22,7 +22,7 @@ Documentação técnica e diagrama de arquitetura (sem dados de negócio) em bre
 
 #### 🛠️ Stack
 
-**Back-end:** Node.js · Express · TypeScript · Socket.io · SQL Server (mssql, sem ORM)
+**Back-end:** Node.js · Express · TypeScript · Socket.io · SQL Server (mssql)
 
 **Front-end:** React · TypeScript · Tailwind CSS · Vite
 
